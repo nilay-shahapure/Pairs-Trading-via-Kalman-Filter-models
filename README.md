@@ -16,9 +16,7 @@ A small, self-contained project that shows how to:
 # install the only libraries we need
 pip install numpy pandas matplotlib yfinance statsmodels
 
-# option 1 – Jupyter
-jupyter lab kalman_pairs_scanner.ipynb   # press “Run all”
 
-# option 2 – command line
-python scan_pairs.py
+then we have scan_pairs.py
+
 
